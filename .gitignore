@@ -16,5 +16,5 @@ pkg
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# Visual Studio Code Folder
+# Visual Studio Code folder
 .vscode
